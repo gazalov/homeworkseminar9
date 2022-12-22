@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\bin\Debug\net7.0\Task64.exe
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\bin\Debug\net7.0\Task64.deps.json
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\bin\Debug\net7.0\Task64.runtimeconfig.json
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\bin\Debug\net7.0\Task64.dll
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\bin\Debug\net7.0\Task64.pdb
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\Task64.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\Task64.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\Task64.AssemblyInfo.cs
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\Task64.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\Task64.dll
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\refint\Task64.dll
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\Task64.pdb
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\Task64.genruntimeconfig.cache
+C:\My_files\git\lesson_1033\homeworkseminar9\Task64\obj\Debug\net7.0\ref\Task64.dll
